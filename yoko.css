@@ -82,6 +82,12 @@ figcaption {
 	text-align: left;
 }
 
+aside {
+	width: 230px;
+	margin-left: 20px;
+	float: right;
+  }
+
 aside section a {
 	display: block;
 	padding: 10px;
