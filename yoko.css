@@ -88,6 +88,11 @@ aside {
 	float: right;
   }
 
+aside a {
+	color: #de6581;
+	text-decoration: none;
+  }
+  
 aside section a {
 	display: block;
 	padding: 10px;
